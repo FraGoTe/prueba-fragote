@@ -1,5 +1,5 @@
 # prueba-fragote
 
 Resultado final : 
-![Imagen](cap.png)
+![Imagen](cap.PNG)
 
