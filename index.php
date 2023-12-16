@@ -21,7 +21,7 @@ require_once("./api.php");
 <body>
     <figure class="highcharts-figure">
         <div id="container"></div>
-        <p style="text-align: center; margin: 20px">La tendencia en el grafico con respecto al indice de pobresa del peru es de <?php echo $trend_data?></b>
+        <p style="text-align: center; margin: 20px">La tendencia en el grafico con respecto al indice de pobreza del Perú es de <?php echo $trend_data?></b>
     </figure>
     <script>
 
