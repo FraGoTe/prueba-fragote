@@ -1,5 +1,5 @@
 # prueba-fragote
 
 Resultado final : 
-![alt text](./cap.png)
+![Imagen](cap.png)
 
